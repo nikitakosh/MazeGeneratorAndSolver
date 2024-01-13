@@ -33,4 +33,7 @@ Make sure you have Java Runtime Environment (JRE) installed on your system.
 
 ### Example
 ```bash
-java -jar MazeSolverApp.jar --height 10 --width 10 --start_x 0 --start_y 0 --end_x 9 --end_y 9 --generation eller --solver dfs
+java -jar MazeSolverApp.jar --height 5 --width 5 --start_x 0 --start_y 0 --end_x 4 --end_y 4 --generation eller --solver dfs
+### Example of work
+![image](https://github.com/nikitakosh/MazeGeneratorAndSolver/assets/113053952/886271e2-b30c-4224-a1b9-40836d4d19a7)
+
